@@ -1,6 +1,13 @@
 
-# Inventory dictionary containing categories of books,
-# Each category has a list of dictionaries with details of books
+"""
+Program Description: Managing a Bookstore Inventory with 2D Lists
+IDE Platform : Pycharm
+Date Written : 04-02-2024
+Date Modified : 04-16-2024
+Programmers : Aldwin Guanzon
+"""
+
+# Inventory dictionary containing categories of books, each category has a list of dictionaries with details of books
 inventory = {'fiction': [],
              'non-Fiction': [],
              'educational': []
