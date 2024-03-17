@@ -1,6 +1,6 @@
 # Description
 
-This repository contains a simple python project. It is designed to help manage various projects, such as managing a bank manager or inventory system.
+This repository contains a simple python project. It is designed to help manage various projects, such as managing a bank manager, inventory system, etc.
 
 # License
 
