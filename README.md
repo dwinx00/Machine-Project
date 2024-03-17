@@ -2,7 +2,7 @@
 
 This repository contains a simple school project. It is designed to help manage various projects, such as managing a bank simulation project or keeping track of books in a school bookstore.
 
-#License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
